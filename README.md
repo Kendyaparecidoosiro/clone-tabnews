@@ -1,3 +1,3 @@
 # clone-tabnews
 
-Projeto para treinar programação no curso.dev
+Implementação do projeto clone-tab-news para paznamente.org.br
